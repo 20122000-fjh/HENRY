@@ -1,0 +1,5 @@
+Variables: Almacenan información que será utilizada más tarde, esta información son los valores de la variable.
+Strings: es un tipo de dato, el cual está formado por un conjunto de símbolos que pueden ser palabras o números
+Funciones: es un tipo de comando específico donde se agrupan variables, con las cuales se puede trabajar. Toda función tiene su argumento, es decir, los valores que tiene que tener en cuenta la función para devolver algo. Algunas veces queremos devolver como respuesta a una función algo en especifico, aquí usamos return, para que la función se resuelva siguiendo una variable específica.
+Declaraciones if: En este caso las usamos cuando queremos que la función distinga si algo es verdadero o falso
+Booleanos: Es un tipo de dato donde solo se pueden obtener 2 opciones, en este caso, verdadero o falso.
