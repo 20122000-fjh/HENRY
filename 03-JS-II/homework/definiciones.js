@@ -1,0 +1,3 @@
+Definiciones
+Bucles for: Este son instrucciones que le podemos dar a JAVASCRIPT, que en este caso, sirven para no repetir constantemente un mismo código, sino que utilizamos el bucle for para especificar una sola vez, cuantas veces queremos que algo se repita.
+&&, ||, ! : Estos son operadores lógicos, los cuales sirven para comprender porque JAVASCRIPT entiendo como verdadero o  falso ciertas instrucciones o expresiones, es decir, que se manejan con valores booleanos. &&: significa Y (AND), ││: significa o (OR), Y ! es una negación (NOT).
