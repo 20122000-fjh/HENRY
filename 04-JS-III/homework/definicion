@@ -1,0 +1,2 @@
+DEFINICIÓN
+Arrays: en español arreglos, se tratan como tipos de datos, así como los booleanos y las strings, pero con la diferencia de que estos funcionan como almacenamientos de otros datos, sean números, booleanos, strings, funciones, e incluso otros arrays, se pueden colocar arrays dentro de un arrays.
