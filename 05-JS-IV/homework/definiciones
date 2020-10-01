@@ -1,0 +1,6 @@
+Definiciones:
+Objetos: Todo en JAVASCRIPT es un objeto, las funciones, arreglos, etc; estos objetos son un conjunto de propiedades, estas propiedades forman una estructura de datos que no tiene orden alguno.
+Propiedades: Están dentros de los objetos, y son una asociación entre un nombre y un valor que le es otorgado al nombre.
+Métodos: Así se llaman a las funciones que encontramos dentro de los objetos.
+Bucle for...in: Así como usamos un código para recorrer arreglos utlizando el bucle for, lo mismo hacemos para los objetos utilizando el bucle for...in.
+Notación de puntos vs notación de corchetes: Ambas sirven para acceder a los valores de un objeto, en la primera solo colamos el nombre del objeto seguido de un punto y el nombre de alguna propiedad dentro de él. En la notación con corchetes colocamos el nombre del objeto seguido del nombre de alguna propiedad con comillas (volviendola una string) y los respectivos corchetes.
