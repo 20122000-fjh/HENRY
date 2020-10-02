@@ -1,0 +1,3 @@
+Definiciones
+Prototype: es el objeto madre de u objeto, todo objeto hace referencia a un objeto anterior, el cual se llama prototype. Así por ejemplo, si buscas una propiedad en un objeto y no la encuentra automáticamente la buscará en el PROTOTYPE.
+Constructors: Es son aquellos que permiten crear por ejemplo varios objetos que comparten una misma propiedad. Con un constructor podemos crear una clase, que puede ser el prototype de varios o un objeto/s.
