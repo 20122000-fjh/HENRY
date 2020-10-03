@@ -1,0 +1,2 @@
+Definicion Funciones Callback:
+Estas son funciones que sirven para pasar funciones como argumentos de otra función, y así utilizarlas dentro de ellas para obtener algo.
